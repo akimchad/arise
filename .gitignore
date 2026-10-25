@@ -1,0 +1,19 @@
+# secrets
+.env
+*.local
+backend/test-account.local
+
+# python
+__pycache__/
+*.pyc
+backend/.venv/
+backend/uploads/
+
+# node
+node_modules/
+frontend/build/
+frontend/dist/
+
+# os / editors
+.DS_Store
+.vscode/
